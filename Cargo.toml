@@ -1,5 +1,5 @@
 [package]
-name = "shadow-drive-sdk"
+name = "shadow-drive-sdk-nelis"
 description = "The Rust SDK for GenesysGo's Shadow Drive"
 version = "0.7.1"
 authors = [
